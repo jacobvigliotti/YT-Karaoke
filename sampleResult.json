@@ -1,0 +1,183 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "pm6Q2VAjYT2qgU7ueh-4s5Clj9k",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1yCxWf8mJmpBzo0C-TmIg_LJsW4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hlk6z9nJxGg"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-24T14:00:30Z",
+          "channelId": "UCwTRjvjVge51X-ILJ4i22ew",
+          "title": "Post Malone - Circles (Karaoke Version)",
+          "description": "Love Karaoke? Our brand new app is here! Download now for FREE https://singking.link/yt-desc Karaoke sing along of “Circles” ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hlk6z9nJxGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hlk6z9nJxGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hlk6z9nJxGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sing King",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-24T14:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "elPSzI9Sopxs3cjzxSlfV51jt3E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eilM4YHBrS0"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-27T19:00:05Z",
+          "channelId": "UCwTRjvjVge51X-ILJ4i22ew",
+          "title": "Post Malone - I Fall Apart (Karaoke Version)",
+          "description": "Love Karaoke? Our brand new app is here! Download now for FREE https://singking.link/yt-desc Karaoke sing along of “I Fall ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eilM4YHBrS0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eilM4YHBrS0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eilM4YHBrS0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sing King",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-27T19:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lR7cu0b533RUHnfAnxHZHDTw5Qc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9Q8o6ac11xQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-21T11:45:00Z",
+          "channelId": "UCMQzYwPk64SY9tipROg52iQ",
+          "title": "Post Malone - Chemical (Karaoke)",
+          "description": "Chemical (Karaoke Version) Instrumental with clean lyrics SING WITH SESH!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9Q8o6ac11xQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9Q8o6ac11xQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9Q8o6ac11xQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "karaoke SESH",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-21T11:45:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xPIBW5NtC4Z-r_jkPEzwVfjngLc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "awxvtj-0JKw"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-21T22:00:00Z",
+          "channelId": "UCwTRjvjVge51X-ILJ4i22ew",
+          "title": "Post Malone, Swae Lee - Sunflower (Karaoke Version)",
+          "description": "Love Karaoke? Our brand new app is here! Download now for FREE https://singking.link/yt-desc Karaoke sing along of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/awxvtj-0JKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/awxvtj-0JKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/awxvtj-0JKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sing King",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-21T22:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "voq-EinH4-44FqvmULL-b5qZcZg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DtTFu9qgX38"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-20T10:00:00Z",
+          "channelId": "UCwTRjvjVge51X-ILJ4i22ew",
+          "title": "Post Malone - Better Now (Karaoke Version)",
+          "description": "Take our survey! Win an iPad! https://singking.com/survey Karaoke sing along of “Better Now” by Post Malone from Sing King ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DtTFu9qgX38/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DtTFu9qgX38/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DtTFu9qgX38/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sing King",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-20T10:00:00Z"
+        }
+      }
+    ]
+  }
+  
